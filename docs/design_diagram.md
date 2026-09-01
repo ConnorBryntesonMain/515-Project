@@ -1,4 +1,4 @@
-```mermain
+```mermaid
 flowchart LR
     Client["React client<br/>Browser UI"] -->|Request| API["Node/Express API<br/>Business logic"]
     API -.->|Response| Client
