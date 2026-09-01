@@ -1,3 +1,4 @@
+```mermain
 flowchart LR
     Client["React client<br/>Browser UI"] -->|Request| API["Node/Express API<br/>Business logic"]
     API -.->|Response| Client
@@ -7,6 +8,7 @@ flowchart LR
 
     API -->|Sends token| Auth["Auth service<br/>Third-party login"]
     Auth -.->|Returns validity| API
+```
 
 ---
 
