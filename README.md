@@ -16,8 +16,8 @@ Athletes need an easy way to log weight training and practice, and see their own
  
 - **Frontend:** React
 - **Backend:** Node.js / Express
-- **Database:** MySQL
-- **Authentication:** Third-party auth service
+- **Database:** TBD
+- **Authentication:** TBD
 ## Features (MVP)
  
 - Team code access, so athletes can join a coach's team.
